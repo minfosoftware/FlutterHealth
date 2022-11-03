@@ -1,4 +1,4 @@
-# flutterhealth
+# FlutterHealth
 
 A new Flutter project.
 
